@@ -1,0 +1,142 @@
+[ {
+  "id" : 2,
+  "name" : "Giant caterpillar",
+  "lifeform" : {
+    "type" : "Invertebrate",
+    "name" : "Invertebrate",
+    "lethal" : "lethal",
+    "age" : 3.0,
+    "gender" : "female",
+    "color" : "brownish",
+    "legAmount" : 102
+  },
+  "location" : {
+    "planet" : {
+      "name" : "Gargantua",
+      "radius" : 130592.0
+    },
+    "latitude" : 63.704722,
+    "longitude" : 14.31375,
+    "biome" : {
+      "name" : "swamp",
+      "degreesCels" : 19.0
+    }
+  },
+  "timeObs" : [ 2372, 6, 15 ],
+  "amount" : 3.0,
+  "picUrl" : "https://i.pinimg.com/originals/3e/f0/67/3ef0675cc3a37938c73fc0ae106a461b.jpg",
+  "comment" : "We found this giant catterpillar that could swallow a man whole, and there were 3 of them",
+  "discoVery" : [ ]
+}, {
+  "id" : 3,
+  "name" : "Giant salamander",
+  "lifeform" : {
+    "type" : "Amphibian",
+    "name" : "Amphibian",
+    "lethal" : "not lethal",
+    "age" : 27.0,
+    "gender" : "male",
+    "weight" : 40.0
+  },
+  "location" : {
+    "planet" : {
+      "name" : "Gargantua",
+      "radius" : 130592.0
+    },
+    "latitude" : 43.402722,
+    "longitude" : 32.52375,
+    "biome" : {
+      "name" : "beach",
+      "degreesCels" : 35.0
+    }
+  },
+  "timeObs" : [ 2373, 8, 10 ],
+  "amount" : 1.0,
+  "picUrl" : "https://i0.wp.com/www.weirdasianews.com/wp-content/uploads/2014/08/top5-500x301.jpg?resize=500%2C301",
+  "comment" : "We found this guy slithering around in the sun, very uninteresting i must say",
+  "discoVery" : [ ]
+}, {
+  "id" : 4,
+  "name" : "Nationalistic bird",
+  "lifeform" : {
+    "type" : "Bird",
+    "name" : "Bird",
+    "lethal" : "lethal",
+    "age" : 25.0,
+    "gender" : "female",
+    "wingSpan" : 5.0
+  },
+  "location" : {
+    "planet" : {
+      "name" : "Zeues",
+      "radius" : 6450.0
+    },
+    "latitude" : 13.532221,
+    "longitude" : 54.84327,
+    "biome" : {
+      "name" : "desert",
+      "degreesCels" : 39.0
+    }
+  },
+  "timeObs" : [ 2374, 10, 12 ],
+  "amount" : 1.0,
+  "picUrl" : "https://www.nkytribune.com/wp-content/uploads/2016/11/Golden-Eagle-1.jpg",
+  "comment" : "closest thing we have come to an eagle that is not on earth, except bigger",
+  "discoVery" : [ ]
+}, {
+  "id" : 5,
+  "name" : "frog boss",
+  "lifeform" : {
+    "type" : "Amphibian",
+    "name" : "Amphibian",
+    "lethal" : "lethal",
+    "age" : 9.0,
+    "gender" : "male",
+    "weight" : 270.0
+  },
+  "location" : {
+    "planet" : {
+      "name" : "Zeues",
+      "radius" : 6450.0
+    },
+    "latitude" : 53.406351,
+    "longitude" : 39.54312,
+    "biome" : {
+      "name" : "forest",
+      "degreesCels" : 15.0
+    }
+  },
+  "timeObs" : [ 2376, 8, 3 ],
+  "amount" : 1.0,
+  "picUrl" : "https://thumbs.gfycat.com/PettyFlimsyJaguarundi-size_restricted.gif",
+  "comment" : "This huge bugger will definetly make you struggle to move on with your quests.",
+  "discoVery" : [ ]
+}, {
+  "id" : 6,
+  "name" : "small birb",
+  "lifeform" : {
+    "type" : "Bird",
+    "name" : "Bird",
+    "lethal" : "not lethal",
+    "age" : 15.0,
+    "gender" : "male",
+    "wingSpan" : 1.0
+  },
+  "location" : {
+    "planet" : {
+      "name" : "Gargantua",
+      "radius" : 130592.0
+    },
+    "latitude" : 23.563987,
+    "longitude" : 5.518819,
+    "biome" : {
+      "name" : "forest",
+      "degreesCels" : 24.0
+    }
+  },
+  "timeObs" : [ 2369, 12, 4 ],
+  "amount" : 1.0,
+  "picUrl" : "https://whyevolutionistrue.files.wordpress.com/2013/07/mgazwrc.jpg?w=1000",
+  "comment" : "most depry looking thing we have discovered this far. In need of extinction",
+  "discoVery" : [ ]
+} ]
